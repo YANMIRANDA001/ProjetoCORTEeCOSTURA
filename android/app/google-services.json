@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "336868629026",
+    "project_id": "projetovander",
+    "storage_bucket": "projetovander.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336868629026:android:508f0580f9829bf866087b",
+        "android_client_info": {
+          "package_name": "br.com.dtec.loja.loja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJM3a1YYMtBpwzhUUD1hmsSdpp3Sm3OFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336868629026:android:6e9949379934116266087b",
+        "android_client_info": {
+          "package_name": "br.com.dtec.loja.minimalstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJM3a1YYMtBpwzhUUD1hmsSdpp3Sm3OFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336868629026:android:c961e09ee8e2c8d466087b",
+        "android_client_info": {
+          "package_name": "br.com.dtec.loja.projeto_vander"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJM3a1YYMtBpwzhUUD1hmsSdpp3Sm3OFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
